@@ -1,20 +1,13 @@
 {
-  "name": "currency-converter-tk",
+  "name": "words_characters_counter",
   "version": "1.0.0",
-  "description": "Currency Conveter",
+  "description": "Word Counter Application",
   "main": "index.js",
+  "bin": "word.js",
   "type": "module",
-  "bin": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.18"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7"
-  }
+  "author": "M talha khan",
+  "license": "MIT"
 }

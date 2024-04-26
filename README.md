@@ -1,4 +1,4 @@
-Currency Converter Application
+Words & Characters Counter Application
 
 **By: Talha Khan - TK**
 
